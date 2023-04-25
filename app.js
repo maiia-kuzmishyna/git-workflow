@@ -5,5 +5,5 @@ const main = (...args) => {
 }
 
 const feture_1 = () => {
-    console.log("Hey, I am feture 1 before codereview");
+    console.log("Hey, I am feture 1");
 }
