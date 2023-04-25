@@ -4,6 +4,10 @@ const main = (...args) => {
     }   
 }
 
-const feture_1 = () => {
-    console.log("Hey, I am feture 1");
+const feature_1 = () => {
+    console.log("Hey, I am feature 1");
+}
+
+const feature_2 = () => {
+    console.log("Hey, I am feature 2");
 }
