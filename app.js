@@ -11,3 +11,7 @@ const feature_1 = () => {
 const feature_2 = () => {
     console.log("Hey, I am feature 2");
 }
+
+//comment
+
+// comment after pull request
